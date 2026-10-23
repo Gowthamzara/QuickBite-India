@@ -1,0 +1,909 @@
+[
+  {
+    "id": "egg-fried-rice",
+    "name": "Egg Fried Rice",
+    "description": "A quick wok-style stir-fry with soft egg and vegetables, using leftover cooled rice.",
+    "ingredients": [
+      "rice",
+      "egg",
+      "onion",
+      "carrot",
+      "soy sauce"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "egg",
+    "cuisine": "indo_chinese",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 12,
+    "estimated_cost_per_serving": 65,
+    "difficulty": "Easy",
+    "instructions": [
+      "Cook rice ahead or use cooled cooked rice.",
+      "Scramble egg, stir-fry onion and carrot, add rice and soy sauce, then toss together."
+    ]
+  },
+  {
+    "id": "egg-bhurji",
+    "name": "Egg Bhurji",
+    "description": "Soft Indian-spiced scrambled eggs with tomato and onion.",
+    "ingredients": [
+      "egg",
+      "onion",
+      "tomato",
+      "green chilli",
+      "coriander"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "egg",
+    "cuisine": "north_indian",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 12,
+    "estimated_cost_per_serving": 45,
+    "difficulty": "Easy",
+    "instructions": [
+      "Chop onion and tomato.",
+      "Soften onion and chilli, add tomato and spices, then scramble in eggs until just set.",
+      "Finish with coriander."
+    ]
+  },
+  {
+    "id": "masala-omelette",
+    "name": "Masala Omelette",
+    "description": "A filling, lightly spiced omelette for breakfast or dinner.",
+    "ingredients": [
+      "egg",
+      "onion",
+      "tomato",
+      "green chilli",
+      "coriander"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "egg",
+    "cuisine": "north_indian",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 8,
+    "estimated_cost_per_serving": 35,
+    "difficulty": "Easy",
+    "instructions": [
+      "Beat eggs with chopped onion, tomato, chilli and salt.",
+      "Pour into a warm oiled pan, cook until set, fold and serve."
+    ]
+  },
+  {
+    "id": "egg-curry",
+    "name": "Quick Egg Curry",
+    "description": "Boiled eggs in a simple onion-tomato gravy.",
+    "ingredients": [
+      "egg",
+      "onion",
+      "tomato",
+      "ginger",
+      "garlic"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "egg",
+    "cuisine": "north_indian",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 20,
+    "estimated_cost_per_serving": 75,
+    "difficulty": "Easy",
+    "instructions": [
+      "Boil and peel eggs.",
+      "Cook onion, ginger and garlic, add tomato and spices, simmer to a thick gravy, then add eggs and warm through."
+    ]
+  },
+  {
+    "id": "egg-toast",
+    "name": "Masala Egg Toast",
+    "description": "Crisp pan-toasted bread topped with seasoned egg.",
+    "ingredients": [
+      "bread",
+      "egg",
+      "onion",
+      "tomato"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "egg",
+    "cuisine": "north_indian",
+    "prep_time_minutes": 4,
+    "cook_time_minutes": 8,
+    "estimated_cost_per_serving": 30,
+    "difficulty": "Easy",
+    "instructions": [
+      "Beat egg with chopped onion, tomato and salt.",
+      "Dip bread lightly, then pan-toast both sides until cooked through and golden."
+    ]
+  },
+  {
+    "id": "egg-dosa",
+    "name": "Egg Dosa",
+    "description": "A crisp dosa topped with spiced beaten egg.",
+    "ingredients": [
+      "dosa batter",
+      "egg",
+      "onion",
+      "coriander"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "egg",
+    "cuisine": "south_indian",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 10,
+    "estimated_cost_per_serving": 40,
+    "difficulty": "Easy",
+    "instructions": [
+      "Spread dosa batter thinly on a hot pan.",
+      "Pour beaten seasoned egg over it, add onion and coriander, cook until set and crisp."
+    ]
+  },
+  {
+    "id": "lemon-rice",
+    "name": "Lemon Rice",
+    "description": "Bright South Indian rice with mustard, peanuts, and curry leaves; timing assumes cooked rice.",
+    "ingredients": [
+      "rice",
+      "lemon",
+      "peanut",
+      "curry leaf"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "vegetarian",
+    "cuisine": "south_indian",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 10,
+    "estimated_cost_per_serving": 35,
+    "difficulty": "Easy",
+    "instructions": [
+      "Heat oil and splutter mustard seeds.",
+      "Add peanuts, curry leaves and turmeric, stir in cooked rice and salt, then finish with lemon juice."
+    ]
+  },
+  {
+    "id": "tomato-rice",
+    "name": "Tomato Rice",
+    "description": "Tangy tomato rice made with cooked rice and warming spices.",
+    "ingredients": [
+      "rice",
+      "tomato",
+      "onion",
+      "ginger"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "vegetarian",
+    "cuisine": "south_indian",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 18,
+    "estimated_cost_per_serving": 40,
+    "difficulty": "Easy",
+    "instructions": [
+      "Soften onion with ginger and spices.",
+      "Add chopped tomato and cook until pulpy.",
+      "Fold in cooked rice and simmer briefly."
+    ]
+  },
+  {
+    "id": "curd-rice",
+    "name": "Curd Rice",
+    "description": "Cooling yogurt rice with a gentle curry-leaf tempering, using cooked rice.",
+    "ingredients": [
+      "rice",
+      "yogurt",
+      "curry leaf",
+      "mustard seed"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "vegetarian",
+    "cuisine": "south_indian",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 5,
+    "estimated_cost_per_serving": 30,
+    "difficulty": "Easy",
+    "instructions": [
+      "Mash cooked rice while warm and cool slightly.",
+      "Mix with yogurt and salt.",
+      "Temper mustard seeds and curry leaves in oil and spoon over."
+    ]
+  },
+  {
+    "id": "vegetable-upma",
+    "name": "Vegetable Upma",
+    "description": "Savory semolina with vegetables and a fragrant tempering.",
+    "ingredients": [
+      "semolina",
+      "onion",
+      "carrot",
+      "peas",
+      "curry leaf"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "vegetarian",
+    "cuisine": "south_indian",
+    "prep_time_minutes": 8,
+    "cook_time_minutes": 15,
+    "estimated_cost_per_serving": 40,
+    "difficulty": "Easy",
+    "instructions": [
+      "Dry-roast semolina.",
+      "Temper mustard and curry leaves, soften onion and vegetables, add water and salt, then slowly stir in semolina until fluffy."
+    ]
+  },
+  {
+    "id": "poha",
+    "name": "Kanda Poha",
+    "description": "Fluffy flattened rice with onion, peanuts and lemon.",
+    "ingredients": [
+      "poha",
+      "onion",
+      "peanut",
+      "potato",
+      "lemon"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "vegetarian",
+    "cuisine": "south_indian",
+    "prep_time_minutes": 8,
+    "cook_time_minutes": 12,
+    "estimated_cost_per_serving": 35,
+    "difficulty": "Easy",
+    "instructions": [
+      "Rinse poha briefly and drain.",
+      "Temper mustard and peanuts, cook onion and potato until tender, add turmeric and poha, warm gently and finish with lemon."
+    ]
+  },
+  {
+    "id": "idli",
+    "name": "Quick Idli",
+    "description": "Steamed rice-and-lentil cakes made with ready fermented batter.",
+    "ingredients": [
+      "idli batter",
+      "coconut",
+      "curry leaf"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "vegetarian",
+    "cuisine": "south_indian",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 12,
+    "estimated_cost_per_serving": 35,
+    "difficulty": "Easy",
+    "instructions": [
+      "Pour prepared fermented idli batter into greased moulds.",
+      "Steam for about 12 minutes until set, then rest briefly before unmoulding."
+    ]
+  },
+  {
+    "id": "masala-dosa",
+    "name": "Masala Dosa",
+    "description": "Crisp dosa using ready fermented batter, with a quick potato and onion filling.",
+    "ingredients": [
+      "dosa batter",
+      "potato",
+      "onion",
+      "mustard seed",
+      "curry leaf"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "vegetarian",
+    "cuisine": "south_indian",
+    "prep_time_minutes": 8,
+    "cook_time_minutes": 20,
+    "estimated_cost_per_serving": 50,
+    "difficulty": "Medium",
+    "instructions": [
+      "Boil and mash potato.",
+      "Temper mustard and curry leaves, soften onion, add potato and salt.",
+      "Spread batter thinly on a hot pan, crisp, fill and fold."
+    ]
+  },
+  {
+    "id": "sambar-rice",
+    "name": "Sambar Rice",
+    "description": "Comforting rice and lentils with vegetables and tamarind.",
+    "ingredients": [
+      "rice",
+      "toor dal",
+      "tomato",
+      "carrot",
+      "tamarind"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "vegetarian",
+    "cuisine": "south_indian",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "estimated_cost_per_serving": 55,
+    "difficulty": "Medium",
+    "instructions": [
+      "Pressure-cook dal until soft.",
+      "Simmer vegetables with tomato, tamarind and sambar powder.",
+      "Stir in dal and cooked rice, adjust water and simmer until creamy."
+    ]
+  },
+  {
+    "id": "coconut-chutney",
+    "name": "Coconut Chutney Toast",
+    "description": "Toast with a quick coconut chutney and fresh herbs.",
+    "ingredients": [
+      "bread",
+      "coconut",
+      "coriander",
+      "green chilli"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "vegetarian",
+    "cuisine": "south_indian",
+    "prep_time_minutes": 8,
+    "cook_time_minutes": 5,
+    "estimated_cost_per_serving": 30,
+    "difficulty": "Easy",
+    "instructions": [
+      "Blend coconut, coriander, chilli, salt and a little water.",
+      "Temper mustard seeds and curry leaves in oil and mix in.",
+      "Serve with toasted bread."
+    ]
+  },
+  {
+    "id": "aloo-paratha",
+    "name": "Aloo Paratha",
+    "description": "Pan-cooked flatbread filled with spiced potato.",
+    "ingredients": [
+      "wheat flour",
+      "potato",
+      "onion",
+      "coriander",
+      "yogurt"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "vegetarian",
+    "cuisine": "north_indian",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "estimated_cost_per_serving": 45,
+    "difficulty": "Medium",
+    "instructions": [
+      "Boil and mash potato; mix with onion, coriander and spices.",
+      "Fill rolled dough, seal and roll gently.",
+      "Cook on a hot griddle with a little oil until golden on both sides."
+    ]
+  },
+  {
+    "id": "chana-masala",
+    "name": "Chana Masala",
+    "description": "Chickpeas simmered in a tangy tomato masala.",
+    "ingredients": [
+      "chickpea",
+      "onion",
+      "tomato",
+      "ginger",
+      "garlic"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "vegetarian",
+    "cuisine": "north_indian",
+    "prep_time_minutes": 8,
+    "cook_time_minutes": 25,
+    "estimated_cost_per_serving": 55,
+    "difficulty": "Easy",
+    "instructions": [
+      "Soften onion with ginger and garlic.",
+      "Add tomato and spices and cook to a paste.",
+      "Add cooked chickpeas and water; simmer until thick."
+    ]
+  },
+  {
+    "id": "dal-tadka",
+    "name": "Dal Tadka",
+    "description": "Everyday lentils finished with a cumin and garlic tempering.",
+    "ingredients": [
+      "toor dal",
+      "onion",
+      "tomato",
+      "garlic",
+      "cumin"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "vegetarian",
+    "cuisine": "north_indian",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 25,
+    "estimated_cost_per_serving": 40,
+    "difficulty": "Easy",
+    "instructions": [
+      "Boil dal with turmeric until soft.",
+      "Cook onion and tomato separately.",
+      "Pour over dal; sizzle cumin and garlic in oil and add as the final tempering."
+    ]
+  },
+  {
+    "id": "aloo-jeera",
+    "name": "Aloo Jeera",
+    "description": "Crisp-edged potatoes with cumin and coriander.",
+    "ingredients": [
+      "potato",
+      "cumin",
+      "coriander",
+      "lemon"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "vegetarian",
+    "cuisine": "north_indian",
+    "prep_time_minutes": 8,
+    "cook_time_minutes": 20,
+    "estimated_cost_per_serving": 40,
+    "difficulty": "Easy",
+    "instructions": [
+      "Parboil and cube potatoes.",
+      "Toast cumin in oil, add potatoes, turmeric and salt, and pan-fry until golden.",
+      "Finish with coriander and lemon."
+    ]
+  },
+  {
+    "id": "paneer-bhurji",
+    "name": "Paneer Bhurji",
+    "description": "Crumbled paneer cooked with onion, tomato and spices.",
+    "ingredients": [
+      "paneer",
+      "onion",
+      "tomato",
+      "green chilli",
+      "coriander"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "vegetarian",
+    "cuisine": "north_indian",
+    "prep_time_minutes": 7,
+    "cook_time_minutes": 12,
+    "estimated_cost_per_serving": 75,
+    "difficulty": "Easy",
+    "instructions": [
+      "Soften onion and chilli in a pan.",
+      "Add tomato and spices and cook until soft.",
+      "Crumble in paneer, warm through and finish with coriander."
+    ]
+  },
+  {
+    "id": "paneer-rice",
+    "name": "Paneer Rice Bowl",
+    "description": "A simple one-pan rice bowl with paneer and vegetables, using cooked rice.",
+    "ingredients": [
+      "rice",
+      "paneer",
+      "onion",
+      "capsicum",
+      "tomato"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "vegetarian",
+    "cuisine": "indo_chinese",
+    "prep_time_minutes": 8,
+    "cook_time_minutes": 15,
+    "estimated_cost_per_serving": 90,
+    "difficulty": "Easy",
+    "instructions": [
+      "Brown paneer cubes and set aside.",
+      "Stir-fry onion and capsicum, add tomato and cooked rice, season, then fold paneer through until hot."
+    ]
+  },
+  {
+    "id": "veg-fried-rice",
+    "name": "Vegetable Fried Rice",
+    "description": "Quick rice tossed with crunchy vegetables and soy, using leftover cooled rice.",
+    "ingredients": [
+      "rice",
+      "carrot",
+      "capsicum",
+      "peas",
+      "soy sauce"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "vegetarian",
+    "cuisine": "indo_chinese",
+    "prep_time_minutes": 8,
+    "cook_time_minutes": 12,
+    "estimated_cost_per_serving": 55,
+    "difficulty": "Easy",
+    "instructions": [
+      "Stir-fry finely chopped vegetables over high heat.",
+      "Add cooled cooked rice and soy sauce, toss until steaming and season to taste."
+    ]
+  },
+  {
+    "id": "veg-pulao",
+    "name": "Vegetable Pulao",
+    "description": "Aromatic one-pot rice with seasonal vegetables.",
+    "ingredients": [
+      "rice",
+      "peas",
+      "carrot",
+      "onion",
+      "ginger"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "vegetarian",
+    "cuisine": "north_indian",
+    "prep_time_minutes": 8,
+    "cook_time_minutes": 20,
+    "estimated_cost_per_serving": 50,
+    "difficulty": "Easy",
+    "instructions": [
+      "Cook onion and ginger with whole spices.",
+      "Add vegetables and rinsed rice, stir, add measured water and salt, cover and cook until rice is tender."
+    ]
+  },
+  {
+    "id": "besan-chilla",
+    "name": "Besan Chilla",
+    "description": "Savory gram-flour pancakes with onion and tomato.",
+    "ingredients": [
+      "besan",
+      "onion",
+      "tomato",
+      "green chilli",
+      "coriander"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "vegetarian",
+    "cuisine": "north_indian",
+    "prep_time_minutes": 8,
+    "cook_time_minutes": 12,
+    "estimated_cost_per_serving": 30,
+    "difficulty": "Easy",
+    "instructions": [
+      "Whisk besan with water, salt and spices into a pourable batter.",
+      "Stir in chopped vegetables.",
+      "Cook thin pancakes on a lightly oiled pan on both sides."
+    ]
+  },
+  {
+    "id": "veg-sandwich",
+    "name": "Masala Vegetable Sandwich",
+    "description": "A toasted sandwich with spiced potato and vegetables.",
+    "ingredients": [
+      "bread",
+      "potato",
+      "tomato",
+      "onion",
+      "capsicum"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "vegetarian",
+    "cuisine": "north_indian",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "estimated_cost_per_serving": 40,
+    "difficulty": "Easy",
+    "instructions": [
+      "Mash boiled potato with salt and spices.",
+      "Layer with sliced tomato, onion and capsicum between bread.",
+      "Toast on a pan until crisp and hot."
+    ]
+  },
+  {
+    "id": "palak-paneer",
+    "name": "Quick Palak Paneer",
+    "description": "Paneer in a simple spinach and tomato sauce.",
+    "ingredients": [
+      "spinach",
+      "paneer",
+      "onion",
+      "tomato",
+      "garlic"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "vegetarian",
+    "cuisine": "north_indian",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "estimated_cost_per_serving": 95,
+    "difficulty": "Medium",
+    "instructions": [
+      "Blanch spinach briefly and blend.",
+      "Cook onion, garlic and tomato with spices, add spinach puree and simmer.",
+      "Add paneer cubes and warm gently."
+    ]
+  },
+  {
+    "id": "chicken-fried-rice",
+    "name": "Chicken Fried Rice",
+    "description": "A fast rice stir-fry with cooked chicken and vegetables, using leftover cooled rice.",
+    "ingredients": [
+      "rice",
+      "chicken",
+      "egg",
+      "carrot",
+      "soy sauce"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "non_vegetarian",
+    "cuisine": "indo_chinese",
+    "prep_time_minutes": 8,
+    "cook_time_minutes": 15,
+    "estimated_cost_per_serving": 95,
+    "difficulty": "Medium",
+    "instructions": [
+      "Cut chicken small and stir-fry until fully cooked.",
+      "Add carrot and egg, scramble, then toss in cooled rice and soy sauce until piping hot throughout."
+    ]
+  },
+  {
+    "id": "chicken-curry",
+    "name": "Home-style Chicken Curry",
+    "description": "Chicken simmered in a straightforward onion-tomato gravy.",
+    "ingredients": [
+      "chicken",
+      "onion",
+      "tomato",
+      "ginger",
+      "garlic"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "non_vegetarian",
+    "cuisine": "north_indian",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 30,
+    "estimated_cost_per_serving": 120,
+    "difficulty": "Medium",
+    "instructions": [
+      "Brown chicken pieces.",
+      "Cook onion, ginger and garlic until golden, add tomato and spices, then chicken and water.",
+      "Cover and simmer until chicken is fully cooked."
+    ]
+  },
+  {
+    "id": "chicken-bhurji",
+    "name": "Chicken Keema Bhurji",
+    "description": "Minced chicken cooked dry with tomato and warming spices.",
+    "ingredients": [
+      "chicken",
+      "onion",
+      "tomato",
+      "ginger",
+      "green chilli"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "non_vegetarian",
+    "cuisine": "north_indian",
+    "prep_time_minutes": 8,
+    "cook_time_minutes": 20,
+    "estimated_cost_per_serving": 110,
+    "difficulty": "Medium",
+    "instructions": [
+      "Cook onion, ginger and chilli until soft.",
+      "Add minced chicken and break it up.",
+      "Add tomato and spices; cook until chicken is fully done and mixture is mostly dry."
+    ]
+  },
+  {
+    "id": "chicken-rice",
+    "name": "Chicken Masala Rice",
+    "description": "A filling one-pot rice with chicken and mild spices.",
+    "ingredients": [
+      "rice",
+      "chicken",
+      "onion",
+      "tomato",
+      "ginger"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "non_vegetarian",
+    "cuisine": "north_indian",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "estimated_cost_per_serving": 120,
+    "difficulty": "Medium",
+    "instructions": [
+      "Brown small chicken pieces and set aside.",
+      "Cook onion, ginger, tomato and spices.",
+      "Add rinsed rice, chicken and water; cover and cook until rice and chicken are done."
+    ]
+  },
+  {
+    "id": "chicken-pepper",
+    "name": "Pepper Chicken",
+    "description": "Quick pan chicken with black pepper and curry leaves.",
+    "ingredients": [
+      "chicken",
+      "onion",
+      "curry leaf",
+      "black pepper",
+      "ginger"
+    ],
+    "pantry_staples": [
+      "salt",
+      "oil",
+      "turmeric",
+      "chilli powder",
+      "cumin"
+    ],
+    "diet_type": "non_vegetarian",
+    "cuisine": "south_indian",
+    "prep_time_minutes": 8,
+    "cook_time_minutes": 22,
+    "estimated_cost_per_serving": 120,
+    "difficulty": "Medium",
+    "instructions": [
+      "Cut chicken into small pieces.",
+      "Temper curry leaves, cook onion and ginger, add chicken, pepper and salt; stir-fry covered until cooked through, then uncover to dry."
+    ]
+  }
+]
